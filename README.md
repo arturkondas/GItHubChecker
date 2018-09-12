@@ -8,6 +8,8 @@
 - Automatically fetch data during the day (f.e. - daily @ 9:10am & 12pm?) 
 >Spartans tents to post the pull requests a bit after the deadline but after my discussions with Jack, we feel that failing the homework just because it's after deadline is a bit harsh.
 
+***
+
 ## Ideas
 
 ### Grading
@@ -31,6 +33,8 @@
 
 - Pull request endpoint - might be also used to automate reviewing pull requests without logging into GitHub.
 
+***
+
 ## Requirements
 
 - To properly fetch the data it is required for the Trainer to follow all his Spartans on GitHub (update on a regular basis - after course finish unfollow accounts)
@@ -38,6 +42,8 @@
 ## Authentication
 
 Right now the API is being tested using Postman & Basic Auth
+
+***
 
 ## Main GitHub API endpoints
 
