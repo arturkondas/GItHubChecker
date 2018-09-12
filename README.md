@@ -3,8 +3,10 @@
 ## Goals
 
 - Create app with automatic fetch of Spartans repos & pull requests based on Trainer GitHub account
-- Create automatic file structure on Trainer pc - divided to repos with pull request created before the deadline and repos with pull request created after the deadline
-- Automatically fetch data during the day (f.e. - daily @ 9:10?)
+- Create automatic file structure on Trainer pc 
+> Divided to repos with pull request created before the deadline and repos with pull request created after the deadline.
+- Automatically fetch data during the day (f.e. - daily @ 9:10am & 12pm?) 
+>Spartans tents to post the pull requests a bit after the deadline but after my discussions with Jack, we feel that failing the homework just because it's after deadline is a bit harsh.
 
 ## Ideas
 
@@ -18,6 +20,8 @@
   * Extra points
 
 > These might be useful as Spartans' accessible end point where they might be able to see they grades online. 
+
+> Created pull request & Is it before the deadline might be graded automatically based on fetch data.
 
 - Weighted grade to round up for us up to 8 & automatically throw out JSON/text file we can use to fill out gradebook
 
